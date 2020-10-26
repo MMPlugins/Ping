@@ -4,3 +4,4 @@
   "description": "A bot latency command for Dragory's modmail.",
   "main": "./ping.js",
   "license": "Custom"
+}
