@@ -5,7 +5,7 @@
   "license": "Custom",
   "main": "./ping.js",
   "repository": {
-    "type": "git",
+    "type": "npm",
     "url": "https://github.com/MMPlugins/Ping"
   },
 }
