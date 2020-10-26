@@ -11,4 +11,4 @@ Restart your bot!
 And that's it!
 Use [prefix]ping (by default, your prefix is !) and watch the magic!
 
-This command also works in DMs - but it will create a thread channel as well.
+This command also works in DMs - but it will create a thread channel.
