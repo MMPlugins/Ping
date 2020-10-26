@@ -3,7 +3,7 @@
   "version": "1.1.0-beta",
   "description": "A bot latency command for Dragory's modmail.",
   "license": "Custom",
-  "main": "ping.js",
+  "main": "./ping.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/MMPlugins/Ping"
